@@ -2,7 +2,7 @@
 ## Password Generator
 ###smaller title
 
-[MY HOMEWORK](https://jacobotaylor.github.io/SEO-HW/)
+[MY HOMEWORK](https://jacobotaylor.github.io/password--gen/)
 
 <img src="pgsc.png"> (Generator Screenshot)
 

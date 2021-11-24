@@ -40,7 +40,7 @@ return newPassword.join('');
   alert("hey, enter a better value!"); 
   generatePassword();
 }
-return "this is not a password dumbass"; 
+return "this is not a password"; 
 
 }
 
